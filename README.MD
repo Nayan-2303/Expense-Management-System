@@ -23,16 +23,7 @@ This project is an **Expense Management System** that consists of a user-friendl
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Nayan-2303/expense-management-system.git
-cd expense-management-system
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 Ensure you have all necessary packages by running:
 
@@ -40,7 +31,7 @@ Ensure you have all necessary packages by running:
 pip install -r requirements.txt
 ```
 
-### 3. Run the Application
+### 2. Run the Application
 
 #### Start the FastAPI Server
 To start the backend server:
